@@ -76,6 +76,4 @@ Bu projeyi geliştirirken gücünü modern web teknolojilerinden aldık:
 
 ---
 
-## 👤 Geliştirici
-**🎓 Öğrenci Projesi**
-- Bu proje bir akademik ödev kapsamında geliştirilmiştir.
+
